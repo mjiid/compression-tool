@@ -1,0 +1,3 @@
+/home/mjid/Desktop/compression_tool/build/CMakeFiles/compression_tool.dir
+/home/mjid/Desktop/compression_tool/build/CMakeFiles/edit_cache.dir
+/home/mjid/Desktop/compression_tool/build/CMakeFiles/rebuild_cache.dir
