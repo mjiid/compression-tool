@@ -129,6 +129,5 @@ void decompressFile(const string& inputFile, const string& outputFile) {
 
     inFile.close();
     outFile.close();
-
-    cout << "File decompressed successfully." << endl;
+    
 }
